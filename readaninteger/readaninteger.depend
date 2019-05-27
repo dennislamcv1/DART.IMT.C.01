@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558877736 source:c:\users\dennis\onedrive\documents\dart.imt.c.01\readaninteger\main.c
+	<stdio.h>
+	<stdlib.h>
+
